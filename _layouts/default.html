@@ -1,11 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }}</title>
-		<style type="text/css">
+		<style>
 			h1 { background-color: #536799; color: white; }
 			h2 { background-color: #536799; color: white; }
-			h2 { text-align: right; }
 			h3 { background-color: #536799; color: white; }
 			h3:before { content: "■ "; }
 			h4 { background-color: #536799; color: white; }
@@ -25,7 +25,8 @@
 		</style>
 	</head>
 	<body>
-		<h2>{{ page.title }}</h2>
+		<h2 style="text-align: right; margin: 0;">{{ page.title }}</h2>
+		<br />
 		{{ content }}
 	</body>
 </html>
