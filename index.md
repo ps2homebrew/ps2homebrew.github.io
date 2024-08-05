@@ -9,7 +9,11 @@ title: PS2 Homebrew Projects
 * TOC
 {:toc}
 
-### Links
+### Software
+* [Open PS2 Loader](https://ps2homebrew.github.io/Open-PS2-Loader/)  
+* [wLaunchELF](https://github.com/ps2homebrew/wLaunchELF)  
+* [See more on ps2homebrew Github Organization](https://github.com/orgs/ps2homebrew/repositories)  
+
+### Community Links
 * [PSX-Place](https://psx-place.com/)  
 * [PS2 Scene Discord](https://discord.gg/Bd3A7v8)
-* [ps2homebrew Github Organization](https://github.com/ps2homebrew)  
