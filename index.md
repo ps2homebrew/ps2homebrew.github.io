@@ -16,5 +16,5 @@ title: PS2 Homebrew Projects
 
 ### Community Links
 * [PSX-Place](https://psx-place.com/)  
-* [PS2 Space Discord]https://discord.gg/r3frDccRby)
+* [PS2 Space Discord](https://discord.gg/r3frDccRby)
 * ~~[PS2 Scene Discord](https://discord.gg/Bd3A7v8)~~
