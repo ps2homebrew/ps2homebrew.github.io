@@ -18,3 +18,9 @@ title: PS2 Homebrew Projects
 * [PSX-Place](https://psx-place.com/)  
 * [PS2 Space Discord](https://discord.gg/r3frDccRby)
 * ~~[PS2 Scene Discord](https://discord.gg/Bd3A7v8)~~
+
+### Related Links
+* [PS2 Homebrew Store](https://ps2store.com/)
+* [ConsoleMods](https://consolemods.org/wiki/PS2:PS2_Mods_Wiki)
+* [ps2dev](https://ps2dev.github.io/)
+* [PS2 Dev Wiki](https://www.psdevwiki.com/ps2/Main_Page)
